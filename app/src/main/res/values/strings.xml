@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioButon</string>
+    <string name="txtPrimerValor">Ingresa el primer valor</string>
+    <string name="txtSegundoValor">Ingresa el segundo valor</string>
+    <string name="rbUno">Sumar</string>
+    <string name="rbDos">Restar</string>
+    <string name="Button">CALCULAR</string>
+    <string name="TextView">Resultado</string>
+    <string name="textview">TextView</string>
+</resources>
